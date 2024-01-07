@@ -1,5 +1,5 @@
 # EnzymeML-based modeling workflow - from raw data acquisition to kinetic parameters
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haeussma/slac_modeling/blob/main/slac_kinetics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EnzymeML/slac_modeling/blob/main/slac_kinetics.ipynb)
 <a href="https://doi.org/10.18419/darus-3867" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Access%20DaRUS%20entry-<blue>.svg" />
 </a>
