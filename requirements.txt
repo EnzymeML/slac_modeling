@@ -1,2 +1,2 @@
-MTPHandler @ git+https://github.com/FAIRChemistry/MTPHandler.git@da19c7f
-EnzymePynetics @ git+https://github.com/FAIRChemistry/EnzymePynetics.git@838871e
+MTPHandler @ git+https://github.com/FAIRChemistry/MTPHandler.git@674140d
+EnzymePynetics @ git+https://github.com/FAIRChemistry/EnzymePynetics.git@9557beb
